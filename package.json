@@ -1,0 +1,7 @@
+{
+    "name": "mbuyu",
+    "version": "1.0.0",
+    "bin": {
+        "mbuyu": "index.js"
+    }
+}
