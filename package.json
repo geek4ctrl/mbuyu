@@ -6,7 +6,9 @@
         "mbuyu": "index.js"
     },
     "dependencies": {
-        "cli-welcome": "^2.2.2"
+        "chalk": "^5.1.2",
+        "cli-welcome": "^2.2.2",
+        "log-symbols": "^5.1.0"
     },
     "keywords": [
         "laurent mbuyu",
