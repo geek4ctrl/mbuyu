@@ -1,10 +1,11 @@
 {
     "name": "mbuyu",
     "version": "1.1.0",
+    "description": "Get to know Mbuyu via `npx mbuyu`",
     "bin": {
         "mbuyu": "index.js"
     },
     "dependencies": {
-        "clear-any-console": "^1.16.2"
+        "cli-welcome": "^2.2.2"
     }
 }
