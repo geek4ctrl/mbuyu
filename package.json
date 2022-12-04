@@ -12,5 +12,13 @@
         "laurent mbuyu",
         "laurent",
         "mbuyu"
-    ]
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "repository": "geek4ctrl/mbuyu",
+    "author": {
+        "name": "Laurent Mbuyu",
+        "email": "laurent.mb19@gmail.com",
+        "url": "https://twitter.com/laurent_mb"
+    }
 }
