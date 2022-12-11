@@ -23,6 +23,10 @@ const helpText = `
 
 const options = {
     flags: {
+        minimal: {
+            type: 'boolean',
+            alias: 'm'
+        },
         social: {
             type: 'boolean',
             default: true,
